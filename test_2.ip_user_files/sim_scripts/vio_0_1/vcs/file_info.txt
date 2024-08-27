@@ -1,0 +1,5 @@
+xpm_cdc.sv,systemverilog,xpm,D:/Xlink/Vivado/2023.2/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv,incdir="../../../../test_2.gen/sources_1/ip/vio_0_1/hdl/verilog"incdir="../../../../test_2.gen/sources_1/ip/vio_0_1/hdl"
+xpm_memory.sv,systemverilog,xpm,D:/Xlink/Vivado/2023.2/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv,incdir="../../../../test_2.gen/sources_1/ip/vio_0_1/hdl/verilog"incdir="../../../../test_2.gen/sources_1/ip/vio_0_1/hdl"
+xpm_VCOMP.vhd,vhdl,xpm,D:/Xlink/Vivado/2023.2/data/ip/xpm/xpm_VCOMP.vhd,incdir="../../../../test_2.gen/sources_1/ip/vio_0_1/hdl/verilog"incdir="../../../../test_2.gen/sources_1/ip/vio_0_1/hdl"
+vio_0.v,verilog,xil_defaultlib,../../../../test_2.gen/sources_1/ip/vio_0_1/sim/vio_0.v,incdir="../../../../test_2.gen/sources_1/ip/vio_0_1/hdl/verilog"incdir="../../../../test_2.gen/sources_1/ip/vio_0_1/hdl"
+glbl.v,Verilog,xil_defaultlib,glbl.v
